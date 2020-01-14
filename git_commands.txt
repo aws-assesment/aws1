@@ -1,0 +1,10 @@
+GIT commands
+
+Git clone “clone repo”
+Git checkout “branch name to change to”
+Git checkout -b “branchname to create” 
+Git add “filename” or “. For all the files”
+Git commit
+Git push origin “branch” 
+Git pull “to pull updates from remote”
+Git rm 
